@@ -1,6 +1,6 @@
 # Scheuling
 
-## This project is done using SimPy package in python.
+This project is done using SimPy package in python.
 
 Assume a factory-based environment, where there are multiple types of products and multiple types of machines. We randomly generate and pre-define the number of products and number of machines for each type of machine. The production sequences for each product are also randomly generated. 
 
